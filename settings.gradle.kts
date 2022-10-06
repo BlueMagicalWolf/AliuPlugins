@@ -1,6 +1,7 @@
 include(":StatusSheetPlus")
 include(":RevoltCord")
 include(":Moyai")
+include(":Skull")
 include(":HomeIconSwitcher")
 include(":StartupChannel")
 include(":ThisWillCrashYourDiscord")
